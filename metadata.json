@@ -1,0 +1,6 @@
+{
+  "name": "TTS God",
+  "description": "High quality text to speech app with diverse voice personas, gender, accent, and age options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
